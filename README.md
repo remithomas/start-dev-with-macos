@@ -16,7 +16,10 @@
 
 ## GIT
 
-- [autocompletion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion) in `~/.bash_profile`
+- [autocompletion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion) 
+
+    - `brew install git && brew install bash-completion`
+    - copy this in `~/.bash_profile`
 
 ```bash
 if [ -f ~/.git-completion.bash ]; then
