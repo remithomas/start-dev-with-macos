@@ -41,6 +41,13 @@ export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 - [ImageOptim](https://imageoptim.com/) to optimize **EVERY** images
 - [LICEcap](https://www.cockos.com/licecap/) to record your screen before send a Pull request. 
 
+## GraphQL
+
+- [GraphiQl](https://electronjs.org/apps/graphiql)
+```bash
+brew cask install graphiql
+````
+
 ## Note
 
 > You could wipe to linux also ;)
