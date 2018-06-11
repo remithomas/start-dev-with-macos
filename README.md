@@ -48,7 +48,8 @@ export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 ## Tools to create PR
 
 - [ImageOptim](https://imageoptim.com/) to optimize **EVERY** images
-- [LICEcap](https://www.cockos.com/licecap/) to record your screen before send a Pull request. 
+- [LICEcap](https://www.cockos.com/licecap/) to record your screen before send a Pull request.
+- [trailer app](https://github.com/ptsochantaris/trailer) show Pull requests from Github.
 
 ## GraphQL
 
