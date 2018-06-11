@@ -19,6 +19,7 @@
 - [Markdown](http://inkmarkapp.com/markdown-quick-look-plugin-mac-os-x/)
 - [JSON](http://www.sagtau.com/quicklookjson.html)
 - [CSV](https://code.google.com/archive/p/quicklook-csv/)
+- [Plain text](https://whomwah.github.io/qlstephen/) if has no extension
 
 [Complete list](http://www.quicklookplugins.com) or [Awesome list](https://github.com/sindresorhus/quick-look-plugins)
 
