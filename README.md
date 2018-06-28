@@ -70,6 +70,8 @@ Some config in preference
     "files.insertFinalNewline": true,
     "eslint.autoFixOnSave": true,
     "files.trimFinalNewlines": true,
+    "tslint.enable": true,
+    "tslint.autoFixOnSave": true,
     "markdown-preview-enhanced.liveUpdate": true
 }
 ```
