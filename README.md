@@ -13,6 +13,7 @@
 - [GIT](https://git-scm.com/download/mac)
 - nodejs or using via [nvm](https://github.com/creationix/nvm): Node Version Manager
 - [docker](https://docs.docker.com/docker-for-mac/install/)
+- [npm autocompletion](https://docs.npmjs.com/cli/completion) `npm completion >> ~/.bashrc`
 
 ## Quicklook (macOS)
 
