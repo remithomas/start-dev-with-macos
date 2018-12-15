@@ -15,7 +15,16 @@
 - [docker](https://docs.docker.com/docker-for-mac/install/)
 - [npm autocompletion](https://docs.npmjs.com/cli/completion) `npm completion >> ~/.bashrc`
 
-## Quicklook (macOS)
+## MacOS
+
+### Hidden files
+
+- Open a terminal and type: `defaults write com.apple.finder AppleShowAllFiles YES`
+- then relaunch your finder (using ctrl + click on finder icon)
+
+From this [website](https://ianlunn.co.uk/articles/quickly-showhide-hidden-files-mac-os-x-mavericks/)
+
+### Quicklook (macOS)
 
 - [Markdown](http://inkmarkapp.com/markdown-quick-look-plugin-mac-os-x/)
 - [JSON](http://www.sagtau.com/quicklookjson.html)
