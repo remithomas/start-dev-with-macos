@@ -2,6 +2,19 @@
 
 > ~~Sometimes~~ _One time_ you need links and how to install it !!
 
+- [Basic Tools](#basic-tools)
+- [MacOS](#macos)
+    - [Hidden files](#hidden-files)
+    - [Quicklook (macOS)](#quicklook-macos)
+- [GIT](#git)
+- [Tools to create PR](#tools-to-create-pr)
+- [GraphQL](#graphql)
+- [Vscode](#vscode)
+    - [Config](#config)
+    - [Plugins](#plugins)
+- [Note](#note)
+- [ToDO](#todo)
+
 ## Basic Tools
 
 - [Homebrew](https://brew.sh) to install a lot of stuff !!!
