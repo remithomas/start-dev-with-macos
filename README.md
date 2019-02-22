@@ -11,6 +11,7 @@
 - [GraphQL](#graphql)
 - [Vscode](#vscode)
     - [Config](#config)
+    - [Launch config](#launch-config)
     - [Plugins](#plugins)
 - [Note](#note)
 - [ToDO](#todo)
@@ -98,6 +99,10 @@ Some config in preference
     "markdown-preview-enhanced.liveUpdate": true
 }
 ```
+
+### Launch config
+
+Useful when want debug, launch: [launch.json](vscode/launch.json)
 
 ### Plugins
 
